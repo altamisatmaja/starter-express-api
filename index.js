@@ -1,7 +1,6 @@
 const jsonServer = require('json-server')
 const cors = require('cors')
 const path = require('path')
-const axios = require('axios');
 
 
 const server = jsonServer.create()
