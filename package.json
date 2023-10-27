@@ -12,11 +12,13 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
+    "aws-sdk": "^2.1482.0",
     "cors": "^2.8.5",
     "json-serve": "^0.1.0",
     "json-server": "^0.17.4"
   },
   "devDependencies": {
+    "@types/cors": "^2.8.15",
     "nodemon": "^3.0.1"
   }
 }
